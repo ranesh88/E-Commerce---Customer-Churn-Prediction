@@ -8,13 +8,8 @@ Churn prediction isn't just about retaining customers – it's about fostering l
 Topics Covered:
 
 - Introduction to Churn Prediction: Understanding what churn is and why it matters to businesses.
-  
 - Data Preparation: Preparing the data for analysis, including data cleaning, feature engineering, and normalisation.
-- 
 - Exploratory Data Analysis (EDA): Gaining insights from the data through visualization and statistical analysis.
-  
 - Building Machine Learning Models: Implementing predictive model as Gradient Boosting Machines.
-- 
 - Model Evaluation: Assessing the performance of the model using evaluation metrics like accuracy, precision, recall, and F1-score.
-- 
 - Hyperparameter Tuning: Optimising model performance through hyperparameter tuning techniques.
